@@ -7,9 +7,11 @@
 1. downloaded_file: 討論結束後下載的會議紀錄 (Export 功能)
 
 **HTML_chatUI_auto**
+
 執行完畢後...
 + 會下載一個 .txt，裡面紀錄了整場會議的內容
 + 可以上傳至評分系統的 .csv
+
 
 參數調整
 + 首先需要設定主題：subject_i 請改成這次要討論的主題
