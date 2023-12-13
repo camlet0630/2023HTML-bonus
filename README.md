@@ -3,6 +3,7 @@
 # Related Link
 + github (bonus track 說明)：https://github.com/ariapoy/html.2023.bonusfinal-public
 + CRIT Evaluation: http://140.112.90.203:6271/
++ https://platform.openai.com/docs/api-reference/chat/create
 
 # Files
 1. HTML_chatUI_auto.ipynb: 可以自動使用 chatUI 的 ipynb 檔，下方有更詳細的說明
