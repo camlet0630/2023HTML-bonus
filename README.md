@@ -17,8 +17,7 @@ csv 的轉存極有可能出錯，請自行確認！
 # HTML_chatUI_auto
 ## 執行完畢後...
 + 會下載一個 .txt，裡面紀錄了整場會議的內容
-+ `rgb(256, 0, 0)很可能不可以上傳至評分系統的 .csv`
-+ The background color is `#ffffff` for light mode and `#000000` for dark mode.
++ rgb(256, 0, 0)`很可能不可以上傳至評分系統的 .csv`
 
 ## 參數調整
 + **必須修改**
