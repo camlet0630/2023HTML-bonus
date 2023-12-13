@@ -1,6 +1,8 @@
 # 2023_HTML_bonus_track
 
-**tips:** 如果想用 py file，印象中可以上傳到 google colab，然後下載的時候選擇 .py
+# Related Link
++ github 說明：https://github.com/ariapoy/html.2023.bonusfinal-public
++ CRIT Evaluation: http://140.112.90.203/
 
 # Files
 1. HTML_chatUI_auto.ipynb: 可以自動使用 chatUI 的 ipynb 檔，下方有更詳細的說明
@@ -25,3 +27,6 @@
 ### 消耗資源
 + AI: 大約 $0.45 (即 0.07%)
 + time: 跑完一次大概要 1-2 小時(?
+
+
+**tips:** 如果想用 py file，印象中可以上傳到 google colab，然後下載的時候選擇 .py
