@@ -1,7 +1,7 @@
 # 2023_HTML_bonus_track
 
 # Related Link
-+ github 說明：https://github.com/ariapoy/html.2023.bonusfinal-public
++ github (bonus track 說明)：https://github.com/ariapoy/html.2023.bonusfinal-public
 + CRIT Evaluation: http://140.112.90.203:6271/
 
 # Files
