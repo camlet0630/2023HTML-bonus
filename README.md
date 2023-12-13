@@ -7,7 +7,7 @@
 # Files
 1. HTML_chatUI_auto.ipynb: 可以自動使用 chatUI 的 ipynb 檔，下方有更詳細的說明
 2. downloaded_file: 討論結束後下載的會議紀錄 (Export 功能)
-3. {name}.csv: 繳交至評分系統的 csv file
+3. `{name}.csv: 繳交至評分系統的 csv file`
 
 # Warning!!
 csv 的轉存極有可能出錯，請自行確認！
@@ -17,7 +17,7 @@ csv 的轉存極有可能出錯，請自行確認！
 # HTML_chatUI_auto
 ## 執行完畢後...
 + 會下載一個 .txt，裡面紀錄了整場會議的內容
-+ rgb(256, 0, 0)`很可能不可以上傳至評分系統的 .csv`
++ `很可能不可以上傳至評分系統的 .csv`
 
 ## 參數調整
 + **必須修改**
