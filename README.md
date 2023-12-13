@@ -1,6 +1,9 @@
 # 2023_HTML_bonus_track
 
+# 待改的部分...
 - [ ] 每次都跟當前 Agent 複述他上一次講了什麼，因為使用 API 的情況下每次都是獨立的，Agent 沒有記憶
+- [ ] 每次提醒他們不要講太長
+- [ ] 處理 .csv
 
 # Related Link
 + github (bonus track 說明)：https://github.com/ariapoy/html.2023.bonusfinal-public
