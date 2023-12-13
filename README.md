@@ -4,7 +4,8 @@
 
 # Files
 1. HTML_chatUI_auto.ipynb: 可以自動使用 chatUI 的 ipynb 檔，下方有更詳細的說明
-1. downloaded_file: 討論結束後下載的會議紀錄 (Export 功能)
+2. downloaded_file: 討論結束後下載的會議紀錄 (Export 功能)
+3. {subject_i}.csv: 繳交至評分系統的 csv file
 
 
 # HTML_chatUI_auto
