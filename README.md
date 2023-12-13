@@ -2,7 +2,7 @@
 
 # Related Link
 + github 說明：https://github.com/ariapoy/html.2023.bonusfinal-public
-+ CRIT Evaluation: http://140.112.90.203/
++ CRIT Evaluation: [http://140.112.90.203/](http://140.112.90.203:6271/)
 
 # Files
 1. HTML_chatUI_auto.ipynb: 可以自動使用 chatUI 的 ipynb 檔，下方有更詳細的說明
